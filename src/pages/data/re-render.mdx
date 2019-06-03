@@ -1,0 +1,17 @@
+import { Link } from "gatsby";
+
+# Re-Render When Data Changes
+
+Do you have properties that are separate but related? A good example
+would be tracking fetch status, result, and error.
+
+- <Link to="hooks/useReducer">
+    Yes, there are separate but related properties I need to change at the same
+    time.
+  </Link>
+
+    For example, upon successful fetch, I want to change the `status` to `done`
+    and `result` to the response object.
+- <Link to="hooks/useState">
+    No, I'm just tracking a simple, single, isolated value.
+  </Link>
