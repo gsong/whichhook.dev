@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{158:function(n,t,e){"use strict";e.r(t),e.d(t,"_frontmatter",function(){return u}),e.d(t,"default",function(){return a});e(40);var o=e(82),r=e.n(o),c=(e(0),e(41)),u={},p={_frontmatter:u},s="wrapper";function a(n){var t=n.components,e=r()(n,["components"]);return Object(c.b)(s,Object.assign({},p,e,{components:t,mdxType:"MDXLayout"}),Object(c.b)("h1",null,"useReducer"))}a.isMDXComponent=!0}}]);
-//# sourceMappingURL=component---src-pages-hooks-use-reducer-mdx-c19fc586a3b2b5edf315.js.map

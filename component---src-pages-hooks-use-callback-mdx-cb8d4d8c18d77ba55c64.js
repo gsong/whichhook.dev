@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{154:function(n,t,e){"use strict";e.r(t),e.d(t,"_frontmatter",function(){return u}),e.d(t,"default",function(){return s});e(40);var o=e(82),r=e.n(o),c=(e(0),e(41)),u={},a={_frontmatter:u},p="wrapper";function s(n){var t=n.components,e=r()(n,["components"]);return Object(c.b)(p,Object.assign({},a,e,{components:t,mdxType:"MDXLayout"}),Object(c.b)("h1",null,"useCallback"))}s.isMDXComponent=!0}}]);
-//# sourceMappingURL=component---src-pages-hooks-use-callback-mdx-cb8d4d8c18d77ba55c64.js.map
